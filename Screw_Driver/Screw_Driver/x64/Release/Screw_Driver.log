@@ -1,0 +1,8 @@
+﻿  Building 'Screw_Driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  md5.c
+  Screw_Driver.vcxproj -> C:\Users\CGY\source\repos\Screw_Driver\x64\Release\Screw_Driver.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\CGY\source\repos\Screw_Driver\x64\Release\Screw_Driver.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  

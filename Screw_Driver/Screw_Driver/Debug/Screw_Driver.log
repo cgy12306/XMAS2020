@@ -1,0 +1,4 @@
+﻿  Building 'Screw_Driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\Screw_Driver.inf
+  Stamping [Version] section with DriverVer=12/12/2020,15.0.20.889
+C:\Users\CGY\source\repos\Screw_Driver\Screw_Driver\Screw_Driver.inf : error 1297: Device driver does not install on any devices, use primitive driver if this is intended.
