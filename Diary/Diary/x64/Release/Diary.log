@@ -1,0 +1,8 @@
+﻿  Building 'Diary' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  diary.c
+  Diary.vcxproj -> C:\Users\CGY\source\repos\Diary\x64\Release\Diary.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\CGY\source\repos\Diary\x64\Release\Diary.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
